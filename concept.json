@@ -1,0 +1,11 @@
+{
+  "slug": "launch-replay",
+  "name": "Launch Replay",
+  "kind": "trend",
+  "description": "Turn raw launch transactions into a step-by-step visual execution replay.",
+  "chain": "Solana",
+  "transactionVersion": 1,
+  "maxTransactionBytes": 4096,
+  "legacyTransactionBytes": 1232,
+  "status": "functional-prototype"
+}
